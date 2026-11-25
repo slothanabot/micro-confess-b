@@ -9,8 +9,8 @@ import os
 
 ENTRY = (
     "To: Dimas, my little brother\n"
-    "I was going to tell you I was proud of you the night before "
-    "your bus left, but I just waved instead, and now you're gone."
+    "I typed 'I'm proud of you' the night before "
+    "your bus left, then deleted it and just waved instead."
 )
 
 
