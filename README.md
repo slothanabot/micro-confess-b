@@ -9,9 +9,9 @@ A make.fun entry for "Unsent: The Micro-Confession Sprint" — one micro-confess
 ## The entry
 
 > To: Dimas, my little brother
-> I was going to tell you I was proud of you the night before your bus left, but I just waved instead, and now you're gone.
+> I typed 'I'm proud of you' the night before your bus left, then deleted it and just waved instead.
 
-150 characters, 2 lines. A message meant for a younger brother the night before he moved away — the pride that never got said out loud, only waved goodbye instead, and now it's too late.
+127 characters, 2 lines. A message meant for a younger brother the night before he moved away — the pride that was typed, then deleted, and never said out loud, only waved goodbye instead.
 
 ## Run it
 
